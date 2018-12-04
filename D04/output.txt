@@ -1,0 +1,6 @@
+A1:25 * Guard #2917 begins shift
+A2:33 * Guard #1489 begins shift
+
+aka.
+A1:72925
+A2:49137
